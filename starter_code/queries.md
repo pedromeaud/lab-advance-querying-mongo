@@ -1,4 +1,4 @@
-![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)
+![Ironhack Logo](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Answers
 
@@ -14,7 +14,7 @@
 
 <!-- Your Code Goes Here -->
 
-### 4. All the companies that had a Valuation Amount of more than 100.000.000 and have been founded before 2010. Retrieve only the `name` and `ipo` fields.
+### 4. All the companies that had a Valuation Amount of more than 100.000.000, and have been founded before 2010. Retrieve only the `name` and `ipo` fields.
 
 <!-- Your Code Goes Here -->
 
@@ -26,7 +26,7 @@
 
 <!-- Your Code Goes Here -->
 
-### 7. All the companies that have a null type of value on the `category_code` field.
+### 7. All the companies that have a null value on the `category_code` field.
 
 <!-- Your Code Goes Here -->
 
@@ -34,11 +34,11 @@
 
 <!-- Your Code Goes Here -->
 
-### 9. Order all the companies by their IPO price in a descending order.
+### 9. All the companies ordered by their IPO price in a descending manner.
 
 <!-- Your Code Goes Here -->
 
-### 10. Retrieve the 10 companies with more employees, order by the `number of employees`
+### 10. The 10 companies with the highest amount of employees, order by the `number of employees`.
 
 <!-- Your Code Goes Here -->
 
@@ -46,19 +46,15 @@
 
 <!-- Your Code Goes Here -->
 
-<!-- ### 12. All the companies that have been 'deadpooled' after the third year. -->
+### 12. All the companies founded before 2000 that have an acquisition amount of more than 10.000.000.
 
 <!-- Your Code Goes Here -->
 
-### 12. All the companies founded before 2000 that have an acquisition amount of more than 10.000.000
+### 13. All the companies that have been acquired after 2010, ordered by the acquisition amount, retrieving only their `name` and `acquisition` fields.
 
 <!-- Your Code Goes Here -->
 
-### 13. All the companies that have been acquired after 2010, order by the acquisition amount, and retrieve only their `name` and `acquisition` field.
-
-<!-- Your Code Goes Here -->
-
-### 14. Order the companies by their `founded year`, retrieving only their `name` and `founded year`.
+### 14. All companies ordered by their `founded year`, retrieving only their `name` and `founded year`.
 
 <!-- Your Code Goes Here -->
 
@@ -70,7 +66,7 @@
 
 <!-- Your Code Goes Here -->
 
-### 17. All the companies whose acquisition amount is more than 10.000.000, and currency is 'EUR'.
+### 17. All the companies whose acquisition amount was more than 10.000.000, and in which the acquisition currency is 'EUR'.
 
 <!-- Your Code Goes Here -->
 
